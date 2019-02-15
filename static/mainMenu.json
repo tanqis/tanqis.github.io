@@ -1,0 +1,49 @@
+[{
+        "name": "金融投资",
+        "style": "",
+        "icon": "fa fa-area-chart",
+        "url": "/financeMap"
+    },
+    {
+        "name": "个人简介",
+        "style": "",
+        "icon": "fa fa-user-secret",
+        "url": "/myself"
+    },
+    {
+        "name": "代办事项",
+        "style": "",
+        "icon": "el-icon-time",
+        "url": "/toDos"
+    },
+    {
+        "name": "在线记账",
+        "style": "",
+        "icon": "el-icon-edit-outline",
+        "url": "/accounts"
+    },
+    {
+        "name": "思维导图",
+        "style": "",
+        "icon": "fa fa-sitemap",
+        "url": "/mindMap"
+    },
+    {
+        "name": "生活日记",
+        "style": "",
+        "icon": "fa fa-glass",
+        "url": "/lifeDays"
+    },
+    {
+        "name": "首页事项",
+        "style": "",
+        "icon": "fa fa-fire",
+        "url": "/homeToDos"
+    },
+    {
+        "name": "工具辅助",
+        "style": "",
+        "icon": "fa fa-wrench",
+        "url": "/toolHelp"
+    }
+]

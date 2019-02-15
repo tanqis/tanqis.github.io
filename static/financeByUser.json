@@ -1,0 +1,66 @@
+{
+    "accountBasic": {
+        "startData": "",
+        "endData": "",
+        "author": "sutanqi",
+        "balanceTotal": 5500,
+        "quotientTotal": 55,
+        "singleBalance": 100
+    },
+    "userBasic": [{
+            "name": "sutanqi",
+            "asName": "苏谭琦",
+            "quotient": 30,
+            "commissionCharges": 0.2,
+            "startTotal": 21000
+        },
+        {
+            "name": "zhangxiaole",
+            "asName": "张小乐",
+            "quotient": 3,
+            "commissionCharges": 0.2,
+            "startTotal": 2100
+        },
+        {
+            "name": "pengwenliang",
+            "asName": "彭文亮",
+            "quotient": 5,
+            "commissionCharges": 0.2,
+            "startTotal": 3500
+        },
+        {
+            "name": "shenglulu",
+            "asName": "沈露露",
+            "quotient": 2,
+            "commissionCharges": 0.1,
+            "startTotal": 1400
+        },
+        {
+            "name": "liguo",
+            "asName": "李果",
+            "quotient": 5,
+            "commissionCharges": 0.2,
+            "startTotal": 3500
+        },
+        {
+            "name": "chenxiaoming",
+            "asName": "陈小明",
+            "quotient": 10,
+            "commissionCharges": 0.2,
+            "startTotal": 7000
+        }
+    ],
+    "totalTrend": [{
+            "date": "2019/02/17",
+            "total": 5000
+        },
+        {
+            "date": "2019/02/18",
+            "total": 5100
+        },
+        {
+            "date": "2019/02/19",
+            "total": 5150
+        }
+    ]
+}
