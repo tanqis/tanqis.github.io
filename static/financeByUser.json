@@ -1,80 +1,95 @@
 {
-    "accountBasic": {
-        "startData": "2019/02/18",
-        "endData": "",
-        "author": "sutanqi",
-        "balanceTotal": 6000,
-        "quotientTotal": 60,
-        "singleBalance": 100
+  "accountBasic": {
+    "startData": "2019/02/18",
+    "endData": "",
+    "author": "sutanqi",
+    "balanceTotal": 6000,
+    "quotientTotal": 60,
+    "singleBalance": 100
+  },
+  "userBasic": [{
+      "name": "sutanqi",
+      "asName": "苏谭琦",
+      "quotient": 30,
+      "commissionCharges": 0.2,
+      "startTotal": 21000
     },
-    "userBasic": [{
-            "name": "sutanqi",
-            "asName": "苏谭琦",
-            "quotient": 30,
-            "commissionCharges": 0.2,
-            "startTotal": 21000
-        },
-        {
-            "name": "zhangxiaole",
-            "asName": "张小乐",
-            "quotient": 3,
-            "commissionCharges": 0.2,
-            "startTotal": 2100
-        },
-        {
-            "name": "pengwenliang",
-            "asName": "彭文亮",
-            "quotient": 5,
-            "commissionCharges": 0.2,
-            "startTotal": 3500
-        },
-        {
-            "name": "shenglulu",
-            "asName": "沈露露",
-            "quotient": 2,
-            "commissionCharges": 0.1,
-            "startTotal": 1400
-        },
-        {
-            "name": "liguo",
-            "asName": "李果",
-            "quotient": 5,
-            "commissionCharges": 0.2,
-            "startTotal": 3500
-        },
-        {
-            "name": "chenxiaoming",
-            "asName": "陈小明",
-            "quotient": 10,
-            "commissionCharges": 0.2,
-            "startTotal": 7000
-        },
-        {
-            "name": "chenxiaobin",
-            "asName": "陈晓斌",
-            "quotient": 3,
-            "commissionCharges": 0.2,
-            "startTotal": 2100
-        },
-        {
-            "name": "aishihui",
-            "asName": "艾世辉",
-            "quotient": 2,
-            "commissionCharges": 0.2,
-            "startTotal": 1400
-        }
-    ],
-    "totalTrend": [{
-            "date": "2019/02/17",
-            "total": 6000
-        },
-        {
-            "date": "2019/02/18",
-            "total": 6100
-        },
-        {
-            "date": "2019/02/19",
-            "total": 6150
-        }
-    ]
+    {
+      "name": "chenxiaoming",
+      "asName": "陈小明",
+      "quotient": 10,
+      "commissionCharges": 0.2,
+      "startTotal": 7000
+    },
+    {
+      "name": "pengwenliang",
+      "asName": "彭文亮",
+      "quotient": 5,
+      "commissionCharges": 0.2,
+      "startTotal": 3500
+    },
+    {
+      "name": "liguo",
+      "asName": "李果",
+      "quotient": 5,
+      "commissionCharges": 0.2,
+      "startTotal": 3500
+    },
+    {
+      "name": "zhangxiaole",
+      "asName": "张小乐",
+      "quotient": 3,
+      "commissionCharges": 0.2,
+      "startTotal": 2100
+    },
+    {
+      "name": "chenxiaobin",
+      "asName": "陈晓斌",
+      "quotient": 3,
+      "commissionCharges": 0.2,
+      "startTotal": 2100
+    },
+    {
+      "name": "shenglulu",
+      "asName": "沈露露",
+      "quotient": 2,
+      "commissionCharges": 0.1,
+      "startTotal": 1400
+    },
+    {
+      "name": "aishihui",
+      "asName": "艾世辉",
+      "quotient": 2,
+      "commissionCharges": 0.2,
+      "startTotal": 1400
+    }
+  ],
+  "totalTrend": [{
+      "date": "2019/02/17",
+      "total": 6000
+    },
+    {
+      "date": "2019/02/18",
+      "total": 6100
+    },
+    {
+      "date": "2019/02/19",
+      "total": 7150
+    }
+  ],
+  "historyTrend": [{
+      "stage": "2018-全期",
+      "startValue": 90,
+      "endValue": 336.67
+    },
+    {
+      "stage": "2019-01期",
+      "startValue": 0,
+      "endValue": 0
+    }, {
+      "stage": "2019-02期",
+      "startValue": 0,
+      "endValue": 0
+    }
+  ]
 }
