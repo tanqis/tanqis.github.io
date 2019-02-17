@@ -2,48 +2,56 @@
         "name": "金融投资",
         "style": "",
         "icon": "fa fa-area-chart",
+        "class": "",
         "url": "/financeMap"
     },
     {
         "name": "个人简介",
         "style": "",
         "icon": "fa fa-user-secret",
+        "class": "miniWidth",
         "url": "/myself"
     },
     {
         "name": "代办事项",
         "style": "",
         "icon": "el-icon-time",
+        "class": "miniWidth",
         "url": "/toDos"
     },
     {
         "name": "在线记账",
         "style": "",
         "icon": "el-icon-edit-outline",
+        "class": "miniWidth",
         "url": "/accounts"
     },
     {
         "name": "思维导图",
         "style": "",
         "icon": "fa fa-sitemap",
+        "class": "miniWidth",
         "url": "/mindMap"
     },
     {
         "name": "生活日记",
         "style": "",
         "icon": "fa fa-glass",
+        "class": "miniWidth",
         "url": "/lifeDays"
     },
     {
         "name": "首页事项",
         "style": "",
         "icon": "fa fa-fire",
+        "class": "miniWidth",
         "url": "/homeToDos"
     },
     {
         "name": "工具辅助",
         "style": "",
         "icon": "fa fa-wrench",
+        "class": "",
         "url": "/toolHelp"
     }
 ]
