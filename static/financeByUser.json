@@ -75,6 +75,10 @@
     {
       "date": "2019/02/19",
       "total": 6298.77
+    },
+    {
+      "date": "2019/02/20",
+      "total": 6362.82
     }
   ],
   "historyTrend": [{
@@ -87,7 +91,6 @@
       "startValue": 0,
       "endValue": 0
     },
-
     {
       "stage": "2019-02期",
       "startValue": 0,
