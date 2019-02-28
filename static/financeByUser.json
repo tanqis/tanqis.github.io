@@ -58,6 +58,15 @@
       "startTotal": 1400
     }
   ],
+  "totalTrendLine": [{
+      "date": "2019/02/17",
+      "total": 6000
+    },
+    {
+      "date": "2019/02/22",
+      "total": 6645.38
+    }
+  ],
   "totalTrend": [{
       "date": "2019/02/17",
       "total": 6000
@@ -101,6 +110,10 @@
     {
       "date": "2019/02/27",
       "total": 6633.74
+    },
+    {
+      "date": "2019/02/28",
+      "total": 6813.77
     }
   ],
   "historyTrend": [{
