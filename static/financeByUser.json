@@ -8,122 +8,160 @@
     "quotientTotal": 60,
     "singleBalance": 100
   },
-  "userBasic": [{
-    "name": "sutanqi",
-    "asName": "苏谭琦",
-    "quotient": 35,
-    "commissionCharges": 0,
-    "startTotal": 24500
-  }, {
-    "name": "chenxiaoming",
-    "asName": "陈小明",
-    "quotient": 10,
-    "commissionCharges": 0.2,
-    "startTotal": 7000
-  }, {
-    "name": "liguo",
-    "asName": "李果",
-    "quotient": 5,
-    "commissionCharges": 0.2,
-    "startTotal": 3500
-  }, {
-    "name": "zhangxiaole",
-    "asName": "张小乐",
-    "quotient": 3,
-    "commissionCharges": 0.2,
-    "startTotal": 2100
-  }, {
-    "name": "chenxiaobin",
-    "asName": "陈晓斌",
-    "quotient": 3,
-    "commissionCharges": 0.2,
-    "startTotal": 2100
-  }, {
-    "name": "shenglulu",
-    "asName": "沈露露",
-    "quotient": 2,
-    "commissionCharges": 0,
-    "startTotal": 1400
-  }, {
-    "name": "aishihui",
-    "asName": "艾世辉",
-    "quotient": 2,
-    "commissionCharges": 0.2,
-    "startTotal": 1400
-  }],
-  "totalTrendLine": [{
-    "date": "2019/02/17",
-    "total": 6000
-  }, {
-    "date": "2019/02/22",
-    "total": 6645.38
-  }],
-  "totalTrend": [{
-    "date": "2019/02/17",
-    "total": 6000
-  }, {
-    "date": "2019/02/18",
-    "total": 6044.66
-  }, {
-    "date": "2019/02/19",
-    "total": 6298.77
-  }, {
-    "date": "2019/02/20",
-    "total": 6362.82
-  }, {
-    "date": "2019/02/21",
-    "total": 6552.78
-  }, {
-    "date": "2019/02/22",
-    "total": 6645.38
-  }, {
-    "date": "2019/02/23",
-    "total": 6645.38
-  }, {
-    "date": "2019/02/24",
-    "total": 6645.38
-  }, {
-    "date": "2019/02/25",
-    "total": 6650.52
-  }, {
-    "date": "2019/02/26",
-    "total": 6663.59
-  }, {
-    "date": "2019/02/27",
-    "total": 6633.74
-  }, {
-    "date": "2019/02/28",
-    "total": 6813.77
-  }, {
-    "date": "2019/03/01",
-    "total": 6705.23
-  }, {
-    "date": "2019/03/02",
-    "total": 6828.19
-  }, {
-    "date": "2019/03/03",
-    "total": 6828.19
-  }, {
-    "date": "2019/03/04",
-    "total": 6941.79
-  }, {
-    "date": "2019/03/05",
-    "total": 6960.69
-  }, {
-    "date": "2019/03/06",
-    "total": 6940.19
-  }],
-  "historyTrend": [{
-    "stage": "2018-全期",
-    "startValue": 90,
-    "endValue": 336.67
-  }, {
-    "stage": "2019-01期",
-    "startValue": 0,
-    "endValue": 0
-  }, {
-    "stage": "2019-02期",
-    "startValue": 0,
-    "endValue": 0
-  }]
+  "userBasic": [
+    {
+      "name": "sutanqi",
+      "asName": "苏谭琦",
+      "quotient": 35,
+      "commissionCharges": 0,
+      "startTotal": 24500
+    },
+    {
+      "name": "chenxiaoming",
+      "asName": "陈小明",
+      "quotient": 10,
+      "commissionCharges": 0.2,
+      "startTotal": 7000
+    },
+    {
+      "name": "liguo",
+      "asName": "李果",
+      "quotient": 5,
+      "commissionCharges": 0.2,
+      "startTotal": 3500
+    },
+    {
+      "name": "zhangxiaole",
+      "asName": "张小乐",
+      "quotient": 3,
+      "commissionCharges": 0.2,
+      "startTotal": 2100
+    },
+    {
+      "name": "chenxiaobin",
+      "asName": "陈晓斌",
+      "quotient": 3,
+      "commissionCharges": 0.2,
+      "startTotal": 2100
+    },
+    {
+      "name": "shenglulu",
+      "asName": "沈露露",
+      "quotient": 2,
+      "commissionCharges": 0,
+      "startTotal": 1400
+    },
+    {
+      "name": "aishihui",
+      "asName": "艾世辉",
+      "quotient": 2,
+      "commissionCharges": 0.2,
+      "startTotal": 1400
+    }
+  ],
+  "totalTrendLine": [
+    {
+      "date": "2019/02/17",
+      "total": 6000
+    },
+    {
+      "date": "2019/02/22",
+      "total": 6645.38
+    }
+  ],
+  "totalTrend": [
+    {
+      "date": "2019/02/17",
+      "total": 6000
+    },
+    {
+      "date": "2019/02/18",
+      "total": 6044.66
+    },
+    {
+      "date": "2019/02/19",
+      "total": 6298.77
+    },
+    {
+      "date": "2019/02/20",
+      "total": 6362.82
+    },
+    {
+      "date": "2019/02/21",
+      "total": 6552.78
+    },
+    {
+      "date": "2019/02/22",
+      "total": 6645.38
+    },
+    {
+      "date": "2019/02/23",
+      "total": 6645.38
+    },
+    {
+      "date": "2019/02/24",
+      "total": 6645.38
+    },
+    {
+      "date": "2019/02/25",
+      "total": 6650.52
+    },
+    {
+      "date": "2019/02/26",
+      "total": 6663.59
+    },
+    {
+      "date": "2019/02/27",
+      "total": 6633.74
+    },
+    {
+      "date": "2019/02/28",
+      "total": 6813.77
+    },
+    {
+      "date": "2019/03/01",
+      "total": 6705.23
+    },
+    {
+      "date": "2019/03/02",
+      "total": 6828.19
+    },
+    {
+      "date": "2019/03/03",
+      "total": 6828.19
+    },
+    {
+      "date": "2019/03/04",
+      "total": 6941.79
+    },
+    {
+      "date": "2019/03/05",
+      "total": 6960.69
+    },
+    {
+      "date": "2019/03/06",
+      "total": 6940.19
+    },
+    {
+      "date": "2019/03/07",
+      "total": 7110.38
+    }
+  ],
+  "historyTrend": [
+    {
+      "stage": "2018-全期",
+      "startValue": 90,
+      "endValue": 336.67
+    },
+    {
+      "stage": "2019-01期",
+      "startValue": 0,
+      "endValue": 0
+    },
+    {
+      "stage": "2019-02期",
+      "startValue": 0,
+      "endValue": 0
+    }
+  ]
 }
