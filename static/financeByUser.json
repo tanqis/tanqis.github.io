@@ -1,7 +1,7 @@
 {
   "financeIip": "请以当日23:59更新数据为准！",
   "isShowTip": true,
-  "showTipContent": "<p style='color:red'>锁仓倒计时最后一天</p>1:本月15日将计算本期第一个月投资分红。<br/>2:盈利部分20%将作为作者手续费。<br/>3:如果要退出本次投资合约，请在15日之前告知作者。<br/>4:联系方式：首页-个人简介-hi!交个朋友",
+  "showTipContent": "<p style='color:red'>锁仓，计算分红，发放分红<br>出金$1215.31=￥8168.09（汇率6.72）</p>1:盈利部分20%将作为作者手续费。<br/>2:如果要退出本次投资合约，请立即告知作者。<br/><span style='color:red'>*</span>联系方式：首页-个人简介-hi!交个朋友",
   "accountBasic": {
     "startData": "2019/02/17",
     "endData": "",
@@ -168,6 +168,10 @@
     {
       "date": "2019/03/13",
       "total": 7233.11
+    },
+    {
+      "date": "2019/03/14",
+      "total": 7215.31
     }
   ],
   "historyTrend": [{
@@ -177,8 +181,8 @@
     },
     {
       "stage": "2019-01期",
-      "startValue": 0,
-      "endValue": 0
+      "startValue": 6000,
+      "endValue": 7215.31
     },
     {
       "stage": "2019-02期",
