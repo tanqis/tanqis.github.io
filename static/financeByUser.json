@@ -1,10 +1,10 @@
 {
   "financeIip": "请以当日23:59更新数据为准！",
-  "isShowTip": true,
+  "isShowTip": false,
   "showTipContent": "<p style='color:red'>锁仓，计算分红，发放分红<br>出金$1215.31=￥8168.09（汇率6.72）</p>1:盈利部分20%将作为作者手续费。<br/>2:如果要退出本次投资合约，请立即告知作者。<br/><span style='color:red'>*</span>联系方式：首页-个人简介-hi!交个朋友",
   "accountBasic": {
     "startData": "2019/02/17",
-    "endData": "",
+    "endData": "2019/04/17",
     "author": "sutanqi",
     "balanceTotal": 6000,
     "quotientTotal": 60,
@@ -13,9 +13,9 @@
   "userBasic": [{
       "name": "sutanqi",
       "asName": "苏谭琦",
-      "quotient": 35,
+      "quotient": 30,
       "commissionCharges": 0,
-      "startTotal": 24500
+      "startTotal": 21000
     },
     {
       "name": "chenxiaoming",
@@ -25,8 +25,22 @@
       "startTotal": 7000
     },
     {
+      "name": "shenglulu",
+      "asName": "沈露露",
+      "quotient": 5,
+      "commissionCharges": 0,
+      "startTotal": 3500
+    },
+    {
       "name": "liguo",
       "asName": "李果",
+      "quotient": 5,
+      "commissionCharges": 0.2,
+      "startTotal": 3500
+    },
+    {
+      "name": "chenxiaobin",
+      "asName": "陈晓斌",
       "quotient": 5,
       "commissionCharges": 0.2,
       "startTotal": 3500
@@ -37,20 +51,6 @@
       "quotient": 3,
       "commissionCharges": 0.2,
       "startTotal": 2100
-    },
-    {
-      "name": "chenxiaobin",
-      "asName": "陈晓斌",
-      "quotient": 3,
-      "commissionCharges": 0.2,
-      "startTotal": 2100
-    },
-    {
-      "name": "shenglulu",
-      "asName": "沈露露",
-      "quotient": 2,
-      "commissionCharges": 0,
-      "startTotal": 1400
     },
     {
       "name": "aishihui",
@@ -172,6 +172,10 @@
     {
       "date": "2019/03/14",
       "total": 7215.31
+    },
+    {
+      "date": "2019/03/15",
+      "total": 6000
     }
   ],
   "historyTrend": [{
