@@ -10,8 +10,7 @@
     "quotientTotal": 60,
     "singleBalance": 100
   },
-  "userBasic": [
-    {
+  "userBasic": [{
       "name": "sutanqi",
       "asName": "苏谭琦",
       "quotient": 30,
@@ -61,8 +60,7 @@
       "startTotal": 1400
     }
   ],
-  "totalTrendLine": [
-    {
+  "totalTrendLine": [{
       "date": "2019/02/17",
       "total": 6000
     },
@@ -71,8 +69,7 @@
       "total": 6645.38
     }
   ],
-  "totalTrend": [
-    {
+  "totalTrend": [{
       "date": "2019/02/17",
       "total": 6000
     },
@@ -251,10 +248,13 @@
     {
       "date": "2019/04/02",
       "total": 6558.23
+    },
+    {
+      "date": "2019/04/03",
+      "total": 6685.18
     }
   ],
-  "historyTrend": [
-    {
+  "historyTrend": [{
       "stage": "2018-全期",
       "startValue": 90,
       "endValue": 336.67
