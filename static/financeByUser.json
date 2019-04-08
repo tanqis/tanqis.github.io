@@ -286,8 +286,8 @@
     },
     {
       "stage": "2019-02期",
-      "startValue": 0,
-      "endValue": 0
+      "startValue": 0.01,
+      "endValue": 0.01
     }
   ]
 }
