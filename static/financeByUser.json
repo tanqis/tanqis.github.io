@@ -8,7 +8,11 @@
     "author": "sutanqi",
     "balanceTotal": 7000,
     "quotientTotal": 70,
-    "singleBalance": 100
+    "singleBalance": 100,
+    "test": {
+      "date": "2019/05/15",
+      "total": 8230.54
+    }
   },
   "userBasic": [{
       "name": "sutanqi",
@@ -141,6 +145,38 @@
     {
       "date": "2019/05/06",
       "total": 7968.04
+    },
+    {
+      "date": "2019/05/07",
+      "total": 7943.6
+    },
+    {
+      "date": "2019/05/08",
+      "total": 8024.04
+    },
+    {
+      "date": "2019/05/09",
+      "total": 8024.04
+    },
+    {
+      "date": "2019/05/10",
+      "total": 8024.04
+    },
+    {
+      "date": "2019/05/11",
+      "total": 8024.04
+    },
+    {
+      "date": "2019/05/12",
+      "total": 8024.04
+    },
+    {
+      "date": "2019/05/13",
+      "total": 8056.8
+    },
+    {
+      "date": "2019/05/14",
+      "total": 8192.4
     }
   ],
   "historyTrend": [{
