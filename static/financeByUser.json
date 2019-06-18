@@ -1,7 +1,7 @@
 {
   "financeIip": "请以当日23:59更新数据为准！",
-  "isShowTip": false,
-  "showTipContent": "<p style='color:red'>今日计算分红，发放分红以及本金<br>出金$1014.41=￥6801.619（汇率6.705）<br/>本期结束，参加下期投资者请私下联系作者</p>1:盈利部分20%将作为作者手续费。<br/>2:下期有需要者，请联系作者，老客户有优惠哦。<br/><span style='color:red'>*</span>联系方式：首页-个人简介-hi!交个朋友",
+  "isShowTip": true,
+  "showTipContent": "<p style='color:red'>今日计算分红，发放分红以及本金<br>出金$5127.9=￥35517.37 （汇率6.926）<br/>本期结束</p>1:盈利部分40%将作为作者手续费。<br/>2:下期暂停休息。<br/><span style='color:red'>*</span>联系方式：首页-个人简介-hi!交个朋友",
   "accountBasic": {
     "startData": "2019/04/15",
     "endData": "2019/12/15",
