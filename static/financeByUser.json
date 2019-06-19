@@ -1,6 +1,6 @@
 {
   "financeIip": "请以当日23:59更新数据为准！",
-  "isShowTip": true,
+  "isShowTip": false,
   "showTipContent": "<p style='color:red'>今日计算分红，发放分红以及本金<br>出金$5127.9=￥35517.37 （汇率6.926）<br/>本期结束</p>1:盈利部分40%将作为作者手续费。<br/>2:下期暂停休息。<br/><span style='color:red'>*</span>联系方式：首页-个人简介-hi!交个朋友",
   "accountBasic": {
     "startData": "2019/04/15",
