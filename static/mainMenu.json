@@ -6,6 +6,13 @@
         "url": "/financeMap"
     },
     {
+        "name": "金融计算",
+        "style": "",
+        "icon": "fa fa-calculator",
+        "class": "",
+        "url": "/fcIndex"
+    },
+    {
         "name": "个人简介",
         "style": "",
         "icon": "fa fa-user-secret",
